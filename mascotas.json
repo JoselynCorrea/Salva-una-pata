@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Luna",
+        "url": "img1.jpg",
+        "edad": 3,
+        "especie": "gato",
+        "descripcion": "Luna es una gata curiosa y amigable. Le encanta explorar su entorno, cazar pequeños objetos y descansar en lugares elevados."
+    },
+    {
+        "id": 2,
+        "nombre": "Simba",
+        "url": "img2.jpg",
+        "edad": 5,
+        "especie": "perro",
+        "descripcion": "Simba es un perro tranquilo y afectuoso. Disfruta pasar las tardes tomando el sol, recibir caricias y acompañar a su familia en paseos cortos."
+    },
+    {
+        "id": 3,
+        "nombre": "Rocky",
+        "url": "img3.jpg",
+        "edad": 1,
+        "especie": "hamster",
+        "descripcion": "Rocky es un hámster activo y curioso. Le encanta correr en su rueda, explorar túneles y almacenar semillas en sus mejillas."
+    },
+    {
+        "id": 4,
+        "nombre": "Max",
+        "url": "img4.jpg",
+        "edad": 4,
+        "especie": "gato",
+        "descripcion": "Max es un gato independiente y juguetón. Es un gran explorador que disfruta observar desde ventanas y cazar juguetes."
+    },
+    {
+        "id": 5,
+        "nombre": "Coco",
+        "url": "img5.jpg",
+        "edad": 2,
+        "especie": "conejo",
+        "descripcion": "Coco es un conejo curioso y juguetón. Le encanta roer juguetes de madera, explorar su entorno y disfrutar de vegetales frescos."
+    },
+    {
+        "id": 6,
+        "nombre": "Coco",
+        "url": "img6.jpg",
+        "edad": 3,
+        "especie": "perro",
+        "descripcion": "Coco es un perro enérgico y leal. Disfruta correr al aire libre, jugar a buscar objetos y compartir tiempo con su familia."
+    },
+    {
+        "id": 7,
+        "nombre": "Coco",
+        "url": "img7.jpg",
+        "edad": 2,
+        "especie": "perro",
+        "descripcion": "Coco es un perro juguetón y amistoso. Le encanta aprender trucos nuevos, recibir premios y socializar con otros perros."
+    },
+    {
+        "id": 8,
+        "nombre": "Coco",
+        "url": "img8.jpg",
+        "edad": 1,
+        "especie": "perro",
+        "descripcion": "Coco es un cachorro curioso y activo. Está aprendiendo a explorar su entorno y se divierte persiguiendo pelotas."
+    },
+    {
+        "id": 9,
+        "nombre": "Tommy",
+        "url": "img10.jpg",
+        "edad": 7,
+        "especie": "tortuga",
+        "descripcion": "Tommy es una tortuga paciente y tranquila. Disfruta nadar en su estanque, tomar el sol en su zona seca y explorar su entorno con calma."
+    }
+]
