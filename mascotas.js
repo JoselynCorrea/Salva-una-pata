@@ -4,7 +4,7 @@ let filtro;
 document.addEventListener('DOMContentLoaded', () => {
   setup();
 
-  const inputBuscador = document.querySelector('.navegacion');
+  const inputBuscador = document.querySelector('.buscar');
   inputBuscador.addEventListener('input', handleBuscador);
 });
 

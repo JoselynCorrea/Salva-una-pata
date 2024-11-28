@@ -65,6 +65,33 @@ html{
     width: 30px;
     height: 30px;
 }
+#img{
+    display:flex;
+    justify-content: space-evenly;
+}
+#img a {
+    display: block;
+    width: 64px;
+    height: 64px;
+    background: url("./img/Sprites.png") center no-repeat;
+}
+
+#img a.wp {
+    background-position: 0 0;
+}
+
+#img a.fb {
+    background-position: -64px 0;
+}
+
+#img a.x {
+    background-position: 0 -64px;
+}
+
+#img a.ig {
+    background-position: -64px -64px;
+}
+
 
 
 
